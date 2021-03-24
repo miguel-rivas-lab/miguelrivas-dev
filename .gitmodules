@@ -1,0 +1,63 @@
+[submodule "css-study-dev"]
+	path = css-study-dev
+	url = https://github.com/miguel-rivas-lab/css-study-dev
+[submodule "descubria-dev"]
+	path = descubria-dev
+	url = https://github.com/miguel-rivas-lab/descubria-dev
+[submodule "drlogic-dev"]
+	path = drlogic-dev
+	url = https://github.com/miguel-rivas-lab/drlogic-dev
+[submodule "evolution-web-dev"]
+	path = evolution-web-dev
+	url = https://github.com/miguel-rivas-lab/evolution-web-dev
+[submodule "flat-css-dev"]
+	path = flat-css-dev
+	url = https://github.com/miguel-rivas-lab/flat-css-dev
+[submodule "hello-dev"]
+	path = hello-dev
+	url = https://github.com/miguel-rivas-lab/hello-dev
+[submodule "html-love-dev"]
+	path = html-love-dev
+	url = https://github.com/miguel-rivas-lab/html-love-dev
+[submodule "main-front-dev"]
+	path = main-front-dev
+	url = https://github.com/miguel-rivas-lab/main-front-dev
+[submodule "miguel-rivas-2014-dev"]
+	path = miguel-rivas-2014-dev
+	url = https://github.com/miguel-rivas-lab/miguel-rivas-2014-dev
+[submodule "miguel-rivas-2016-dev"]
+	path = miguel-rivas-2016-dev
+	url = https://github.com/miguel-rivas-lab/miguel-rivas-2016-dev
+[submodule "miguel-rivas-2018-dev"]
+	path = miguel-rivas-2018-dev
+	url = https://github.com/miguel-rivas-lab/miguel-rivas-2018-dev
+[submodule "nano-grid-dev"]
+	path = nano-grid-dev
+	url = https://github.com/miguel-rivas-lab/nano-grid-dev
+[submodule "pixel-server-prompt-dev"]
+	path = pixel-server-prompt-dev
+	url = https://github.com/miguel-rivas-lab/pixel-server-prompt-dev
+[submodule "presidente-carnaval-2015-dev"]
+	path = presidente-carnaval-2015-dev
+	url = https://github.com/miguel-rivas-lab/presidente-carnaval-2015-dev
+[submodule "presidente-loader-dev"]
+	path = presidente-loader-dev
+	url = https://github.com/miguel-rivas-lab/presidente-loader-dev
+[submodule "presidente-photo-2014-dev"]
+	path = presidente-photo-2014-dev
+	url = https://github.com/miguel-rivas-lab/presidente-photo-2014-dev
+[submodule "presidente-retro-brindis-dev"]
+	path = presidente-retro-brindis-dev
+	url = https://github.com/miguel-rivas-lab/presidente-retro-brindis-dev
+[submodule "presidente-verano-2015-dev"]
+	path = presidente-verano-2015-dev
+	url = https://github.com/miguel-rivas-lab/presidente-verano-2015-dev
+[submodule "svg-101-dev"]
+	path = svg-101-dev
+	url = https://github.com/miguel-rivas-lab/svg-101-dev
+[submodule "tetravex-dev"]
+	path = tetravex-dev
+	url = https://github.com/miguel-rivas-lab/tetravex-dev
+[submodule "voxel-animation-dev"]
+	path = voxel-animation-dev
+	url = https://github.com/miguel-rivas-lab/voxel-animation-dev
