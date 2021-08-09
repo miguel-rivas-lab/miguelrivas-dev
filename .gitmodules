@@ -61,3 +61,6 @@
 [submodule "voxel-animation-dev"]
 	path = voxel-animation-dev
 	url = https://github.com/miguel-rivas-lab/voxel-animation-dev
+[submodule "miguel-rivas-2021-dev"]
+	path = miguel-rivas-2021-dev
+	url = https://github.com/miguel-rivas-lab/miguel-rivas-2021-dev
