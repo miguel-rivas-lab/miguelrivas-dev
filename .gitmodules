@@ -31,9 +31,6 @@
 [submodule "miguel-rivas-2018-dev"]
 	path = miguel-rivas-2018-dev
 	url = https://github.com/miguel-rivas-lab/miguel-rivas-2018-dev
-[submodule "nano-grid-dev"]
-	path = nano-grid-dev
-	url = https://github.com/miguel-rivas-lab/nano-grid-dev
 [submodule "pixel-server-prompt-dev"]
 	path = pixel-server-prompt-dev
 	url = https://github.com/miguel-rivas-lab/pixel-server-prompt-dev
@@ -64,3 +61,6 @@
 [submodule "miguel-rivas-2021-dev"]
 	path = miguel-rivas-2021-dev
 	url = https://github.com/miguel-rivas-lab/miguel-rivas-2021-dev
+[submodule "miguel-rivas-2021-2-dev"]
+	path = miguel-rivas-2021-2-dev
+	url = https://github.com/miguel-rivas-lab/miguel-rivas-2021-2-dev
